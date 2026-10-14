@@ -1,0 +1,13 @@
+name = "Animal Garden - Bull Shark"
+filename = "animalgarden_bullshark-1.1.0-fabric-1.21.1-0.116.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "17c4d193e56c2d96c7f807df3b4b554ef457eee2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7230654
+project-id = 1363244

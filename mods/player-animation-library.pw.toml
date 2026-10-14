@@ -1,0 +1,13 @@
+name = "Player Animation Library"
+filename = "PlayerAnimationLibFabric-1.1.4+mc.1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6d35fa18d44d2ea9b5fa101e5ba8f3facba25e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7611363
+project-id = 1283899

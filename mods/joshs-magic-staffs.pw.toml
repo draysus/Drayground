@@ -1,0 +1,13 @@
+name = "Josh's Magic Staffs"
+filename = "magicstaffs-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf0b8101e48bc053cff7760b0e14169365104e15"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6376145
+project-id = 1160296

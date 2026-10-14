@@ -1,0 +1,13 @@
+name = "Animal Garden - White Rhinoceros"
+filename = "animalgarden-whiterhinoceros-1.0.0-fabric-1.21.1-0.116.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b72de456c06f8d3c9018a527bd16cd076b46e97a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7156198
+project-id = 1373457

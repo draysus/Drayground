@@ -1,0 +1,13 @@
+name = "Animal Garden - Owl"
+filename = "animalgarden_owl-1.1.1-fabric-1.21.1-0.115.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8412c835104e531555713be721b97b5fc17d901c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6519272
+project-id = 1153275

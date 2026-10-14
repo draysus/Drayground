@@ -1,0 +1,13 @@
+name = "Ribbits"
+filename = "Ribbits-1.21.1-Fabric-4.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b95ef94e6c4d2b7a706bcbe3cde6a38b2fe936d3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7355197
+project-id = 622967

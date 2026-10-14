@@ -1,0 +1,13 @@
+name = "Ender Skeleton"
+filename = "enderskeleton-0.1-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "35399b80bb7873b3ea1f63ac33429567669f2716"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5688110
+project-id = 1095979

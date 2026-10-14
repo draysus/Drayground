@@ -1,0 +1,13 @@
+name = "Spellbound Weapons"
+filename = "spellbound-weapons-v4.1.0c.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cd9a1ed60ebf32a611e3f6c52cf6b77c98672645"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5681474
+project-id = 638883

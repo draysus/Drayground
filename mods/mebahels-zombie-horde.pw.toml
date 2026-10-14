@@ -1,0 +1,13 @@
+name = "Mebahel's Zombie Horde"
+filename = "mebahel-zombie-horde-1.2.0-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e7b7d5f364af7962bae4392463fa193dc2013944"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7536744
+project-id = 1090603

@@ -1,0 +1,13 @@
+name = "Animal Garden - Spotted Hyena"
+filename = "animalgarden-spottedhyena-1.0.1-fabric-1.21.1-0.116.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d1eff423923dbaa3bbcbce4d9070bee43d4ee784"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7138546
+project-id = 1367094

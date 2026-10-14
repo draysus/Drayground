@@ -1,0 +1,13 @@
+name = "More Raids"
+filename = "more-raids-V1.0-data.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a3075919476989202a32082e9e8def2fd5c7746"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7142925
+project-id = 1371216

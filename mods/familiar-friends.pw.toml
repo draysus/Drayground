@@ -1,0 +1,13 @@
+name = "Familiar Friends"
+filename = "familiar_friends-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0f7c9cb42ed3914cc9486ce3d7fd21e819a93cf7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6425077
+project-id = 1152041

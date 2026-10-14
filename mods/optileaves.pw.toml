@@ -1,0 +1,13 @@
+name = "OptiLeaves"
+filename = "OptiLeaves-fabric-1.21.1-v1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2838bc00d801594751f305c89e39cec333fb9fdc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7876714
+project-id = 1191403

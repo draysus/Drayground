@@ -1,0 +1,13 @@
+name = "HRTF Fix"
+filename = "hrtffix-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f31754f2cdcd28a42283b9d3a25909b98cd59064"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6386433
+project-id = 1235827

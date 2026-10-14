@@ -1,0 +1,13 @@
+name = "Snowballs Freeze Mobs"
+filename = "snowballsfreezemobs-26.3.0-4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef5992413159c20b5ff4c7a34b1bc6328dbfb362"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8925298
+project-id = 344436

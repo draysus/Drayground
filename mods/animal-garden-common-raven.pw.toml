@@ -1,0 +1,13 @@
+name = "Animal Garden - Common Raven"
+filename = "animalgarden-commonraven-1.0.0-fabric-1.21.1-0.116.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ffb4e82737a737e432a62d8245de7f39b0310fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7140846
+project-id = 1370539

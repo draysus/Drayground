@@ -1,0 +1,13 @@
+name = "Domix's Creatures"
+filename = "domixs-creatures-1.10.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef55580f87efbc00ca8a064610fa58c6c7c5e2b3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7700950
+project-id = 1200633

@@ -1,0 +1,13 @@
+name = "Waddles"
+filename = "Waddles-fabric-1.21-0.11.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e07be976184245ee6c4fb9eb634af483d305f193"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5511070
+project-id = 251767

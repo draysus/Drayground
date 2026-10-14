@@ -1,0 +1,13 @@
+name = "Portable Spawners"
+filename = "portablespawner-fabric-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "90642a1c97373199a1b71d7c06cf65a6b2dc76e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6160025
+project-id = 1083672

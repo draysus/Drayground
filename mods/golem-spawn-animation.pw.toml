@@ -1,0 +1,13 @@
+name = "Golem Spawn Animation"
+filename = "golem-spawn-animation-FABRIC-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6d4bfbe26ab40a203c8848c7c86e0c533469ae1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8800685
+project-id = 1224240

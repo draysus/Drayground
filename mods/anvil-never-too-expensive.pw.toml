@@ -1,0 +1,13 @@
+name = "Anvil Never Too Expensive"
+filename = "AnvilNeverTooExpensive-fabric-1.21+-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62024f9a26b61cdeb87e3d1f7182ef3616eb0cab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6056719
+project-id = 670282

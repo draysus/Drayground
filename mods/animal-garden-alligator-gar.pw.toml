@@ -1,0 +1,13 @@
+name = "Animal Garden - Alligator Gar"
+filename = "animalgarden-alligatorgar-1.0.0-fabric-1.21.1-0.116.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "17b59a1dc2930f6493246b8bdba32f81e2fed459"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7225743
+project-id = 1385403

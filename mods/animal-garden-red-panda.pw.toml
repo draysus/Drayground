@@ -1,0 +1,13 @@
+name = "Animal Garden - Red Panda"
+filename = "animalgarden_redpanda-1.1.1-fabric-1.21.1-0.116.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "86deddd292adaec16ade9799eab6564f83680155"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7141861
+project-id = 1353070

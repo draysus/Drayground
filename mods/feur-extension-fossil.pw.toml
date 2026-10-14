@@ -1,0 +1,13 @@
+name = "Feur - Extension Fossil"
+filename = "feur_extension_fossil-1.21.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "115c527de9ae519b22c0ec9064088631a312de92"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7163017
+project-id = 1117070

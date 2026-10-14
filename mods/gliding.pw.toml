@@ -1,0 +1,13 @@
+name = "Gliding"
+filename = "gliding-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "807a37b94dcfc45478212001d4a14312f8f5e159"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7219877
+project-id = 1175478

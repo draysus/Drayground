@@ -1,0 +1,13 @@
+name = "Animal Garden - Sugar Glider"
+filename = "animalgarden-sugargilder-1.0.0-fabric-1.21.1-0.116.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38e7b2bddc9360a3af7d4f0c325767b40bd2f4d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7203909
+project-id = 1381696

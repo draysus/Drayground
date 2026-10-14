@@ -1,0 +1,13 @@
+name = "Repurposed End"
+filename = "repurposed-end-2.1-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc8de1c8d5c8244606f09b4b0dbb69bc4d5da1d1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6710376
+project-id = 1090062

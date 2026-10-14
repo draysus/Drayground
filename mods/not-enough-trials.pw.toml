@@ -1,0 +1,13 @@
+name = "Not Enough Trials"
+filename = "NotEnoughTrials-1.21-v6.0-FabricForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8e481e3be796a408c82b427e9240ede9a8f1d812"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8152560
+project-id = 1126706

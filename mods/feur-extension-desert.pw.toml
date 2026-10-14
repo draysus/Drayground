@@ -1,0 +1,13 @@
+name = "Feur - Extension Desert"
+filename = "feur_extension_desert-1.21.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "620e2932df403273b9f415c0a4607e7805d2d0d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7232472
+project-id = 1117054

@@ -1,0 +1,13 @@
+name = "Four Elemental Swords"
+filename = "ElementalSwords-fabric-1.21.1-1.8.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3fee0828dab098374f6be42fc9ef2b3baab25da4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5817082
+project-id = 453276

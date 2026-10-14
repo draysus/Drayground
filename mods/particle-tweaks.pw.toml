@@ -1,0 +1,13 @@
+name = "Particle Tweaks"
+filename = "ParticleTweaks-2.0-mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "850711ed75ec98c930df0a24901dea710c100d9b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5863594
+project-id = 860819

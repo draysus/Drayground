@@ -1,0 +1,13 @@
+name = "Drayground"
+author = "Draysus"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ea1a4a84530ddde30982d9ae9f30cd454755ea013f85eddf72d9c0abab2b037d"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.1"

@@ -1,0 +1,13 @@
+name = "No Shield Delay"
+filename = "no-shield-delay-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "baceed2cc4e4a5be88542f4d397fe82e4e730036"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5676051
+project-id = 641059

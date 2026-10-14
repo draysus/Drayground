@@ -1,0 +1,13 @@
+name = "Villager Death Messages"
+filename = "villagerdeathmessages-1.21.1-3.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7fee136458cd1f08ad94198769ea1f6308e3ef4c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6184889
+project-id = 341777
