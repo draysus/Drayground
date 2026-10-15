@@ -1080,6 +1080,11 @@ hash = "5565b1bf1638907ea181655350d9edd6d0d016e3cdc49b7cbd890fac88448a56"
 metafile = true
 
 [[files]]
+file = "mods/voxy.pw.toml"
+hash = "97b379f331ad92b88b6f82737e838f02ffe9eb861bc74c479ad667ac8d53b5d5"
+metafile = true
+
+[[files]]
 file = "mods/waddles.pw.toml"
 hash = "5bc9f29806df941d1a9474ded993c11e974539fb975ebe42ec470669f4a5aed5"
 metafile = true
@@ -1177,9 +1182,4 @@ preserve = true
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "6d9bbd7b23c083646f95290fdb247e84aa8c2ec96a23e625e73d504587a87547"
-metafile = true
-
-[[files]]
-file = "mods/voxy.pw.toml"
-hash = "97b379f331ad92b88b6f82737e838f02ffe9eb861bc74c479ad667ac8d53b5d5"
 metafile = true
