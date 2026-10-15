@@ -1,13 +1,13 @@
 name = "Snowballs Freeze Mobs"
-filename = "snowballsfreezemobs-26.3.0-4.0.jar"
+filename = "snowballsfreezemobs-1.21.1-3.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ef5992413159c20b5ff4c7a34b1bc6328dbfb362"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ETKe9DNz/versions/qlxzJokn/snowballsfreezemobs-1.21.1-3.8.jar"
+hash-format = "sha512"
+hash = "e46189813f581e879f125b1d11d08fe347753d5431d599f372755b01744e04ba712a0ebb11ca43aeca55145fb39d1c12682cc6709d58aa0a62955f888ac81175"
 
 [update]
-[update.curseforge]
-file-id = 8925298
-project-id = 344436
+[update.modrinth]
+mod-id = "ETKe9DNz"
+version = "qlxzJokn"
