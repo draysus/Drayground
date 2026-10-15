@@ -1178,3 +1178,8 @@ preserve = true
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "6d9bbd7b23c083646f95290fdb247e84aa8c2ec96a23e625e73d504587a87547"
 metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "97b379f331ad92b88b6f82737e838f02ffe9eb861bc74c479ad667ac8d53b5d5"
+metafile = true
