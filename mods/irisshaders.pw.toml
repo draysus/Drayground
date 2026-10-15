@@ -12,8 +12,3 @@ mode = "metadata:curseforge"
 file-id = 6213635
 project-id = 455508
 
-
-[option]
-optional = true
-default = true
-description = "Shader-Unterstützung."
