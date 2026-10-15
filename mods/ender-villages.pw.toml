@@ -3,11 +3,11 @@ filename = "endervillages-3.0.0-1.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "09a6499f4b830e3de5f8cba2c35bdd5c3ee06cea"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/NdeIraZc/versions/iZGGrZV3/endervillages-3.0.0-1.21.jar"
+hash-format = "sha512"
+hash = "32059412e9351b21ce065dbf6cdcbb038750fa084c04d96bdde64304bb90459c32770bf0fbc639637baa5ed413e026e3c7690a7204db71d5dd37ec4fc6a60d89"
 
 [update]
-[update.curseforge]
-file-id = 7405786
-project-id = 1282125
+[update.modrinth]
+mod-id = "NdeIraZc"
+version = "iZGGrZV3"

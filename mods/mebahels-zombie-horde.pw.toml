@@ -3,11 +3,11 @@ filename = "mebahel-zombie-horde-1.2.0-1.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e7b7d5f364af7962bae4392463fa193dc2013944"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/qzMgWNlz/versions/d3WYz1j7/mebahel-zombie-horde-1.2.0-1.21.jar"
+hash-format = "sha512"
+hash = "f6a4ff0f9ced3702043fe1f06f4135b2513abc6dbc83915103c5d0cb80216a370502adf20a38fb1a4d598652fd3c9c2bb26154652e77632e759211195749e43b"
 
 [update]
-[update.curseforge]
-file-id = 7536744
-project-id = 1090603
+[update.modrinth]
+mod-id = "qzMgWNlz"
+version = "d3WYz1j7"

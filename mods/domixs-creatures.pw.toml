@@ -3,11 +3,11 @@ filename = "domixs-creatures-1.10.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ef55580f87efbc00ca8a064610fa58c6c7c5e2b3"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/8D2MjDHD/versions/S1VxjeDY/domixs-creatures-1.10.1.jar"
+hash-format = "sha512"
+hash = "629b58fe50d447f5d73dbd048c25d644fc975e1137e3eec04c51f86d45933b1e75793b9e1f1f32b54860d13b087a7d7d32b0b4ea33500592ce29cc14e732ddca"
 
 [update]
-[update.curseforge]
-file-id = 7700950
-project-id = 1200633
+[update.modrinth]
+mod-id = "8D2MjDHD"
+version = "S1VxjeDY"
