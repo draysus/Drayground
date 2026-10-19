@@ -875,11 +875,6 @@ hash = "757c9f971541d0c76ced4bb744d01adbb65711e062a4415783b2a4726b6ebd41"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "2494505990ebe04a740fbae936efdf4d24a52071c04d3b73d215b9539e59817b"
-metafile = true
-
-[[files]]
 file = "mods/repurposed-end.pw.toml"
 hash = "182d131a2799c6a0f9a6475ab94d17561b61b662c60f3fa1d14b98d7659a20c2"
 metafile = true
