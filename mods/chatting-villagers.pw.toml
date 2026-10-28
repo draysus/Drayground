@@ -1,13 +1,13 @@
 name = "Chatting Villagers"
-filename = "chattingvillagers-1.0.0.jar"
+filename = "chattingvillagers-fabric-1.21.1-1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4067bb9f7ab842fa8b6482eafe283921310de0c6"
+hash = "361a67ea6ab8b3ba479c866ac49cecfdd76e21db"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8574120
+file-id = 9064019
 project-id = 1638757
